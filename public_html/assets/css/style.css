@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+body #field {
+  background-color: #62fe8b;
+  border: 30px solid #dfa;
+}
+body .data-player {
+  display: inline-block;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+body span {
+  font-size: 20px;
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */
